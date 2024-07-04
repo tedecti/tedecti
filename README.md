@@ -2,9 +2,9 @@
 <h3 align="center">.NET developer from Kazakhstan, Astana</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-- 🔭 I’m currently working on [PetPaw](https://github.com/tedecti/dog-cs)
+- 🔭 I’m currently working on [Json Market](https://github.com/tedecti/JSON_Market)
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **.NET Websockets**
 
 - 📝 I regularly write articles on [vk.com/tedecti](vk.com/tedecti)
 
